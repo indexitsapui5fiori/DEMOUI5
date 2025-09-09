@@ -1,0 +1,8 @@
+<mvc:View controllerName="demoui5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button id="idbtnAccept" text="Accept" type="Accept"/>
+    
+    </Page>
+</mvc:View>
